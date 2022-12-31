@@ -8,7 +8,7 @@ I've been writing code for the better part of 20 years. I lead a team of develop
 
 * 🌍  I'm based in Portage, MI
 * ✉️  You can contact me at [chad.bartels@gmail.com](mailto:chad.bartels@gmail.com)
-* 🚀  I'm currently working on [Redeveloping my personal site/blog](http://chadbartels.com)
+* 🚀  I'm currently working on [Reworking my personal site/blog](http://chadbartels.com)
 * 🧠  I'm learning how to better use Go in my applications
 
 <a href="https://www.twitter.com/chadbartels" target="_blank" rel="noreferrer"><img
