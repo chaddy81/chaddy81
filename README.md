@@ -1,15 +1,15 @@
 Hi 👋 My name is Chad Bartels
 =============================
 
-Software Developer
+VP of Software Engineering
 ------------------
 
-I've been writing code for the better part of 20 years. I lead a team of developers creating software and web apps for companies across many industries.
+As VP of Software Engineering, I help guide our teams to build great software that moves the company forward. I focus on creating a strong engineering culture, making sure our tech strategy matches our business goals, and helping our teams grow and succeed. I’m passionate about mentoring, solving tough problems, and making sure we’re always getting better at what we do.
 
 * 🌍  I'm based in Portage, MI
 * ✉️  You can contact me at [chad.bartels@gmail.com](mailto:chad.bartels@gmail.com)
 * 🚀  I'm currently working on [Reworking my personal site/blog](http://chadbartels.com)
-* 🧠  I'm learning how to better use Go in my applications
+* 🧠  I'm trying to find time to write more code and keep my skills honed.
 
 <a href="https://www.twitter.com/chadbartels" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chadbartels?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
